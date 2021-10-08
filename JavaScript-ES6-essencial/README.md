@@ -4,7 +4,7 @@
 
 #### :bookmark_tabs: Anotações e códigos de exemplo utilizados no curso JavaScript ES6 Essencial, da Digital Innovation One (DIO)
 
-:man_teacher:Professor: Guilherme Cabrini da Silva
+:man_teacher:Professor: **Guilherme Cabrini**
 
 :file_folder:Introdução ao ES6
 
